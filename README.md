@@ -16,7 +16,7 @@ Contact & bug reports: andidewanto@gmail.com
 
 ## Bahasa Indonesia
 
-Membulatkan (fillet) atau memotong miring (chamfer) edge, rantai edge dengan sambungan mitre, dan pojok 2D face datar. Extension SketchUp gratis oleh Andi Dewanto — Windows & macOS, SketchUp 2021+. Versi **1.5.1**, yang menambahkan sudut dalam pada face ujung berlubang, misalnya bingkai jendela.
+Membulatkan (fillet) atau memotong miring (chamfer) edge, rantai edge dengan sambungan mitre, dan pojok 2D face datar. Extension SketchUp gratis oleh Andi Dewanto · Windows & macOS, SketchUp 2021+. Versi **1.5.1**, yang menambahkan sudut dalam pada face ujung berlubang, misalnya bingkai jendela.
 
 - Situs: https://andidewanto.github.io/simple-bevel/
 - Unduh: [`downloads/ad_simple_bevel-1.5.1.rbz`](downloads/ad_simple_bevel-1.5.1.rbz)
